@@ -5,3 +5,4 @@ Reminder to self: check if these actually exist before starting.
 
 - [ ] Golang mx blacklist checker - a cool way to demo Go's concurrency
 - [ ] Angular/Angular Material context menu
+- [ ] Go WHMCS bindings to external API
